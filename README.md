@@ -6,7 +6,7 @@ Transfer the style of one picture to another
 
 ## How to run
 
-`python picture_style_transfer.py --content example1/content.jpg --styles ./example1/style.jpg --output ./example1/output.jpg>`
+`python picture_style_transfer.py --content example1/content.jpg --styles ./example1/style.jpg --output ./example1/output.jpg`
 
 Run `python picture_style_transfer.py --help` to see a list of all options.
 
