@@ -1,6 +1,7 @@
 # picture_style_transfer
 
-An implementation of [neural style][paper] in TensorFlow.
+An implementation of paper 'A Neural Algorithm of Artistic Style' in TensorFlow.
+Transfer the style of one picture to another
 
 
 ## How to run
