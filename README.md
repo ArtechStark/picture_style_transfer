@@ -15,4 +15,4 @@ Use `--iterations` to change the number of iterations (default 1000).
 Using a GPU is highly recommended due to the huge speedup.
 
 ## Pretrained network
-Pretrained network is [VGG19](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat). Before you run the code, please download it into the top level of this repository
+Pretrained network is [VGG19](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat) or [VGG19](https://pan.baidu.com/s/10Q9xc3c9y7QOqF-QM4Xi4A) (Baidu net disk link). Before you run the code, please download it into the top level of this repository
